@@ -12,7 +12,7 @@ function App() {
               <Navbar></Navbar>
               <Hero></Hero>
             </section>
-            <section>
+            <section id='Services'>
               <Parallax type="services"></Parallax>
             </section>
             <section id='Services'>
@@ -22,9 +22,9 @@ function App() {
               <Parallax type="portfolio"></Parallax>
             </section>
             <Portfolio></Portfolio>
-            <section id='contact'>
+            {/* <section id='contact'>
                <Contact></Contact>
-            </section>
+            </section> */}
     </div>
   );
 }

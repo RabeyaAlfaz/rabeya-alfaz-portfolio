@@ -1,3 +1,4 @@
+@import "../../App.scss";
 .hero{
     height: calc(100vh - 100px);
     border-color: linear-gradient(100deg,#0c0c1d,#111132);
@@ -14,8 +15,18 @@
             flex-direction: column;
             justify-content: center;
             gap: 40px;
+            @include mobile{
+                height: 50%;
+                width: 100%;
+                align-items: center;
+                gap: 20px;
+                text-align: center;
+            }
             h1{
                 font-size: 80px;
+                @include mobile{
+                   font-size: 36px;
+                }
             }
             h2{
                 font-size: 30px;
@@ -42,8 +53,19 @@
         position: absolute;
         top:0;
         right: 0;
+        @include mobile{
+            height: 50%;
+            width: 100%;
+            top: unset;
+            bottom: 0;
+        }
         img{
             height: 500px;
+            @include mobile{
+                height: 100%;
+                width: 100%;
+                object-fit: cover;
+            }
         }
         
     }

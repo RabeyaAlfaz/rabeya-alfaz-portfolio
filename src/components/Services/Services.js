@@ -61,7 +61,7 @@ const Services = () => {
                     <p>
                         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero at perferendis mollitia repellat. Voluptate dolore inventore sequi repellendus, magnam at quaerat tempora impedit, quasi, natus ullam ab exercitationem temporibus neque?
                     </p>
-                    <button>button</button>
+                    <button>Go</button>
                 </motion.div>
             </motion.div>
         </motion.div>
