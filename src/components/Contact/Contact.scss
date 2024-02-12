@@ -42,6 +42,7 @@
         .phoneSvg{
             position: absolute;
             margin: auto;
+            z-index: -1;
             svg{
                 @include mobile{
                   width: 200px;
