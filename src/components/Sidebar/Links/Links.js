@@ -32,7 +32,7 @@ export default function Links() {
   ]
   return (
     <motion.div className='links' variants={variants}>
-      <a href='https://drive.google.com/file/d/155QUhWNFFaV9hPmEEDkAI5d37BpO3QgN/view?usp=sharing'>Resume</a>
+      <a href='https://drive.google.com/file/d/155QUhWNFFaV9hPmEEDkAI5d37BpO3QgN/view?usp=sharing'>Rabeya Alfaz(Resume)</a>
       {
         items.map((item)=>(
           <motion.a href={`#${item}`} key={item} variants={itemVariants} whileHover={{scale:1.2}} whileTap={{scale:0.95}}>{item}</motion.a>
