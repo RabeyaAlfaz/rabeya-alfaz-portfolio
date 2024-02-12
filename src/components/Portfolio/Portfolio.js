@@ -13,7 +13,7 @@ const items  = [
   id:2,
   title:"ecommerce with js",
   img:"https://i.postimg.cc/ZnDmpyDC/ecommerce.png",
-  desc:"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore ipsum assumenda quas qui unde at eligendi nulla omnis, earum in voluptates vitae eos, veritatis optio maxime debitis distinctio tempora voluptatem.",
+  desc:"This is front end ecommerce site which is perfect for business",
   link:"https://first-e-commerce-site.netlify.app/"
 },
   {
@@ -27,14 +27,14 @@ const items  = [
   id:4,
   title:"Currency master With Js",
   img:"https://i.postimg.cc/8zfpdtGD/currency-Master.png",
-  desc:"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore ipsum assumenda quas qui unde at eligendi nulla omnis, earum in voluptates vitae eos, veritatis optio maxime debitis distinctio tempora voluptatem.",
+  desc:"This is functional website which can calculate currency ",
   link:"https://roaring-parfait-0b029e.netlify.app/"
 },
   {
   id:5,
   title:"World Cup Update",
   img:"https://i.postimg.cc/J4GMmPGJ/worldCup.png",
-  desc:"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore ipsum assumenda quas qui unde at eligendi nulla omnis, earum in voluptates vitae eos, veritatis optio maxime debitis distinctio tempora voluptatem.",
+  desc:"This is a landing page website which can give te updating world cup news",
   link:"https://world-cup-update.netlify.app/"
 }
 ,
@@ -42,7 +42,7 @@ const items  = [
   id:6,
   title:"Convention Center",
   img:"https://i.postimg.cc/9Q046djN/convention-center.png",
-  desc:"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore ipsum assumenda quas qui unde at eligendi nulla omnis, earum in voluptates vitae eos, veritatis optio maxime debitis distinctio tempora voluptatem.",
+  desc:"This is a website for marriage convention center which beautifully show the business",
   link:"https://reverent-borg-f6d302.netlify.app/"
 }
 ]
