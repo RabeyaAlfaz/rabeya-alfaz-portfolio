@@ -6,7 +6,7 @@ const items  = [
   id:1,
   title:"Speed Type",
   img:"https://i.postimg.cc/wjpyrJck/speed-Type.png",
-  desc:"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore ipsum assumenda quas qui unde at eligendi nulla omnis, earum in voluptates vitae eos, veritatis optio maxime debitis distinctio tempora voluptatem.",
+  desc:"This is Speed type site which can count your speed of typing,I've used html CSS and javascript for this project",
   link:"https://reverent-borg-f6d302.netlify.app/"
 },
   {
@@ -20,7 +20,7 @@ const items  = [
   id:3,
   title:"news Bulletin with React",
   img:"https://i.postimg.cc/L83yWM2V/bulletin.png",
-  desc:"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore ipsum assumenda quas qui unde at eligendi nulla omnis, earum in voluptates vitae eos, veritatis optio maxime debitis distinctio tempora voluptatem.",
+  desc:"This Website is created using React Js .Here i've used React Routing",
   link:"https://bulletin-today.netlify.app/"
 },
   {
